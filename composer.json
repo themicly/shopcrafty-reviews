@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": "^8.3",
-        "themicly/shopcrafty": "dev-main@dev",
+        "themicly/shopcrafty": "^1.0",
         "illuminate/support": "^13.0"
     },
     "require-dev": {
